@@ -42,7 +42,7 @@ gem 'bootstrap-will_paginate', '1.0.0'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 gem 'rails-controller-testing'
 
